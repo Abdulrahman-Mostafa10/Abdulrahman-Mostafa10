@@ -21,7 +21,6 @@
 ### Connect with Me :
 
 <a href="www.linkedin.com/in/abd-el-rahman-mostafa-cmp1010" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Language Tools :
 ![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,10 +32,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahman-Mostafa10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
