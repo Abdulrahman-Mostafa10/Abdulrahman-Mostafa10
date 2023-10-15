@@ -33,6 +33,9 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;)
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahman-Mostafa10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Abdulrahman-Mostafa10&style=for-the-badge">
