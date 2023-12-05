@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/abd-el-rahman-mostafa-cmp1010" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abd-el-rahman-mostafa-cmp1010/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Language Tools :
 ![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
