@@ -35,7 +35,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mostafa10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mostafa10&hide=javascript,css,scss,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Abdulrahman-Mostafa10&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Mostafa10&style=for-the-badge">
