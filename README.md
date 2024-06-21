@@ -24,8 +24,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-Mostafa&theme=github_dark">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-Mostafa&theme=github_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-Mostafa10&theme=github_dark">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-Mostafa10&theme=github_dark">
 </picture>
 
  <picture>
@@ -34,8 +34,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=github_dark&utcOffset=+3">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/4-productive-time.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=github_dark&utcOffset=8">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=github_dark&utcOffset=8">
 </picture>
 
 </div>
