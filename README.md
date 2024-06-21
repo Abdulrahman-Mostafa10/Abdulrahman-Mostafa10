@@ -15,27 +15,27 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrahman-Mostafa10&theme=github_dark">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrahman-Mostafa10&theme=github_dark">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrahman-Mostafa10&theme=nord_bright">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrahman-Mostafa10&theme=github_dark">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrahman-Mostafa10&theme=github_dark">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrahman-Mostafa10&theme=nord_bright">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-Mostafa10&theme=github_dark">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-Mostafa10&theme=github_dark">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-Mostafa10&theme=nord_bright">
 </picture>
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrahman-Mostafa10&theme=github_dark">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrahman-Mostafa10&theme=github_dark">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrahman-Mostafa10&theme=nord_bright">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=github_dark&utcOffset=8">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=github_dark&utcOffset=8">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=nord_bright&utcOffset=8">
 </picture>
 
 </div>
