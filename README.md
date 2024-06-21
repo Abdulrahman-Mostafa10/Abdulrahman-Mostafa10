@@ -50,7 +50,7 @@
   <a href="https://x.com/_AMostafa_/"> 
   <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
-    <a href="www.linkedin.com/in/abdulrahmannmostafa/"> 
+    <a href="https://www.linkedin.com/in/abd-el-rahman-mostafa-cmp1010/"> 
   <img src="https://skillicons.dev/icons?i=linkedin"/>
         </a>
       <a href="https://discord.com/channels/@me"> 
