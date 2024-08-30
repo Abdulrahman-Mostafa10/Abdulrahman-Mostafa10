@@ -37,7 +37,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=github_dark&utcOffset=8">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=nord_bright&utcOffset=8">
 </picture>
-
+</br>
+<picture>
+  <source media="(prefers-color-schema: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mostafa10&layout=compact&theme=github_dark&utcOffset=8">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mostafa10&layout=compact&theme=github_dark&utcOffset=8">
+</picture>
 </div>
 
 <div align='center'>
