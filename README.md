@@ -64,7 +64,7 @@
 <div align='center'>
   <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
   <a href="https://skillicons.dev/"><img
-      src="https://skillicons.dev/icons?i=python,tensorflow,ruby,rails,nodejs,ts,js,java,cpp,c,mysql,postgresql,html,sass,arduino" /></a>
+      src="https://skillicons.dev/icons?i=pytorch,tensorflow,rails,nodejs,expressjs,deno,graphql,react,heroku,aws,docker,ts,js,java,cs,cpp,c,python,ruby,mysql,postgresql,mongodb,html,v,css,sass,git,pug,arduino" /></a>
 </div>
 
 <div align='center'>
