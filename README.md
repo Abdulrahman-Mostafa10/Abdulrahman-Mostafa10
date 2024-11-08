@@ -2,7 +2,7 @@
 
   ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0F0FF0&text=Hello,%20I'm%20Abdelrahman!&fontColor=FFFF&fontAlign=50&fontAlignY=40&animation=fadeIn)
 
-  <p align="center">
+  <p align="center"> 
     <a href="https://git.io/typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&random=false&width=720&lines=Computer+Engineering+Junior+and+Backend+Developer;Aspiring+to+learn+new+things+and+sharpen+my+skills"
         alt="Typing SVG" /></a>
