@@ -69,7 +69,7 @@
 
 <div align='center'>
   <h2> 💬 Get in touch 💬 </h2>
-  <a href="https://x.com/_AMostafa_/">
+  <a href="https://x.com/amostafag404/">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.linkedin.com/in/abdulrahmannmostafa/">
