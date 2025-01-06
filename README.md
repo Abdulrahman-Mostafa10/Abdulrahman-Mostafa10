@@ -7,7 +7,7 @@
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&random=false&width=720&lines=Computer+Engineering+Senior+and+Software+Engineer;Aspiring+to+learn+new+things+and+sharpen+my+skills"
         alt="Typing SVG" /></a>
   </p> 
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> </p>
 </div>
 
 
