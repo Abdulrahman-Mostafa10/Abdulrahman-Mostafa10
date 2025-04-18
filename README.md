@@ -45,19 +45,6 @@
     <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=nord_bright&utcOffset=8">
   </picture>
-  </br>
-  <picture>
-    <source media="(prefers-color-schema: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mostafa10&layout=compact&theme=github_dark&utcOffset=8">
-    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mostafa10&layout=compact&theme=github_dark&utcOffset=8">
-  </picture>
-  </br>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Mostafa10&label=Profile%20views&color=999999&style=flat"
-      alt="Profile views badge" />
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrcmUyN3NxNGd1Yjk3bWdzaGF1Zm5zMXVnem45ZHo2dnV5aGdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1HdiobjzYIrm/giphy.gif" width="27"/> 
-  </p>
 </div>
 
 <div align='center'>
