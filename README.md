@@ -45,6 +45,15 @@
     <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Mostafa10&theme=nord_bright&utcOffset=8">
   </picture>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Mostafa10&theme=github_dark&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Mostafa10&theme=github_dark&hide_border=false" 
+       height="150" 
+       alt="Abdulrahman-Mostafa10's Streak" />
+</picture>
+
 </div>
 
 <div align='center'>
