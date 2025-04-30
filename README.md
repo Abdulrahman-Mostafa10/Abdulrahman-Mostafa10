@@ -48,11 +48,12 @@
 
  <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Mostafa10&theme=github_dark&hide_border=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Mostafa10&theme=github_dark&hide_border=false" 
+          srcset="https://nirzak-streak-stats.vercel.app?user=Abdulrahman-Mostafa10&theme=github-dark-blue&hide_border=true">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Abdulrahman-Mostafa10&theme=default&hide_border=true" 
        height="150" 
-       alt="Abdulrahman-Mostafa10's Streak" />
+       alt="GitHub Streak" />
 </picture>
+
 
 </div>
 
